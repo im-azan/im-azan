@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Azan</h1>
 <h3 align="center">I'm a Sr. Cyber Security Engineer</h3>
 
-<img align="right" alt="coding" width="400" src="<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/f4e2c4cc-2a38-445e-9f08-dc6926f7fe41" />
-">
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/cc30009d-bb06-49bf-9abd-47ac60fe6a26" />
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=im-azan&label=Profile%20views&color=0e75b6&style=flat" alt="im-azan" /> </p>
 
