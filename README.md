@@ -45,3 +45,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=im-azan&show_icons=true&locale=en" alt="im-azan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=im-azan&" alt="im-azan" /></p>
+
+<img width="680" height="428" alt="image" src="https://github.com/user-attachments/assets/c39b00ec-5c43-440b-8689-5691f8159477" />
+
