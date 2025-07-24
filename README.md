@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Azan</h1>
 <h3 align="center">I'm a Sr. Cyber Security Engineer</h3>
 
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0s8Ov74GRFQ4vm8SprvBoD&ust=1753475144326000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPiw1oqq1o4DFQAAAAAdAAAAABAE">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=im-azan&label=Profile%20views&color=0e75b6&style=flat" alt="im-azan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=im-azan" alt="im-azan" /></a> </p>
